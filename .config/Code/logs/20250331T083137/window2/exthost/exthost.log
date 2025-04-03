@@ -1,0 +1,24 @@
+2025-03-31 08:32:56.610 [info] Extension host with pid 3905 started
+2025-03-31 08:32:56.636 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-31 08:32:56.716 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-31 08:32:56.742 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-31 08:32:56.818 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-31 08:32:56.914 [info] Eager extensions activated
+2025-03-31 08:32:56.922 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:32:56.924 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:32:56.942 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:34:57.451 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-31 08:34:57.467 [info] Extension host with pid 3905 exiting with code 0
+2025-03-31 08:34:58.539 [info] Extension host with pid 4063 started
+2025-03-31 08:34:58.539 [info] Skipping acquiring lock for /home/alunos/a2667428/.config/Code/User/workspaceStorage/d9298bc609111d35872b6c61bbc51899.
+2025-03-31 08:34:58.588 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-31 08:34:58.658 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-31 08:34:58.671 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-31 08:34:58.741 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-31 08:34:58.834 [info] Eager extensions activated
+2025-03-31 08:34:58.851 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:34:58.853 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:34:58.872 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-31 08:35:04.346 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-31 08:35:04.412 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-31 08:38:33.375 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'

@@ -1,0 +1,39 @@
+2025-04-03 10:34:10.526 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-03 10:34:10.526 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-03 10:34:10.526 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-03 10:34:10.994 [info] Started local extension host with pid 3192.
+2025-04-03 10:34:12.250 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 10:34:13.908 [info] [perf] Render performance baseline is 93ms
+2025-04-03 10:34:17.140 [error] Timed out waiting for authentication provider to register
+2025-04-03 10:48:32.411 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:34.401 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:36.402 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:38.401 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:40.405 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:42.403 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:48:44.156 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:31.812 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:33.783 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:35.793 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:37.357 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:37.964 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:39.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:41.962 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:43.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:45.783 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:47.157 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:47.962 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:49.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:51.962 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:53.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:55.964 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:57.961 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:49:59.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:01.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:03.960 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:05.956 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:07.966 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:09.962 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:11.962 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:13.963 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'
+2025-04-03 10:50:15.963 [error] [Extension Host] Error: ENOTDIR: not a directory, stat '/home/alunos/a2667428/Trabalhito/Imgs/ManoNarci1.jpeg/Imgs/ManoNarci2.jpeg /Imgs/ManoNarci3.jpeg'

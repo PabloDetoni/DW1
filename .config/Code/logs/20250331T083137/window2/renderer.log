@@ -1,0 +1,14 @@
+2025-03-31 08:32:55.652 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:32:55.652 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:32:55.653 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:32:55.992 [info] Started local extension host with pid 3905.
+2025-03-31 08:32:56.562 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-31 08:32:58.727 [info] [perf] Render performance baseline is 45ms
+2025-03-31 08:33:01.745 [error] Timed out waiting for authentication provider to register
+2025-03-31 08:34:57.729 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:34:57.729 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:34:57.729 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-31 08:34:57.970 [info] Started local extension host with pid 4063.
+2025-03-31 08:34:58.454 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-31 08:35:00.620 [info] [perf] Render performance baseline is 51ms
+2025-03-31 08:35:03.671 [error] Timed out waiting for authentication provider to register

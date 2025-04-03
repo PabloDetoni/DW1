@@ -1,0 +1,41 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.13.1
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/alunos/a2667428/.cache/typescript/5.7/.npmrc
+5 silly config load:file:/home/alunos/a2667428/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm install types-registry@latest
+8 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+9 verbose logfile logs-max:10 dir:/home/alunos/a2667428/.npm/_logs/2025-03-31T11_31_44_007Z-
+10 verbose logfile /home/alunos/a2667428/.npm/_logs/2025-03-31T11_31_44_007Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly packumentCache corgi:https://registry.npmjs.org/types-registry cache-miss
+14 http fetch GET 200 https://registry.npmjs.org/types-registry 620ms (cache updated)
+15 silly packumentCache corgi:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+16 silly idealTree buildDeps
+17 silly fetch manifest types-registry@0.1.714
+18 silly packumentCache full:https://registry.npmjs.org/types-registry cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/types-registry 122ms (cache updated)
+20 silly packumentCache full:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+21 silly placeDep ROOT types-registry@0.1.714 REPLACE for:  want: 0.1.714
+22 silly reify mark retired [
+22 silly reify   '/home/alunos/a2667428/.cache/typescript/5.7/node_modules/types-registry'
+22 silly reify ]
+23 silly reify moves {
+23 silly reify   '/home/alunos/a2667428/.cache/typescript/5.7/node_modules/types-registry': '/home/alunos/a2667428/.cache/typescript/5.7/node_modules/.types-registry-zynG8qi3'
+23 silly reify }
+24 silly audit bulk request { 'types-registry': [ '0.1.714' ] }
+25 http cache types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.714.tgz 0ms (cache hit)
+26 silly tarball no local data for types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.714.tgz. Extracting by manifest.
+27 http fetch GET 200 https://registry.npmjs.org/types-registry/-/types-registry-0.1.714.tgz 250ms (cache miss)
+28 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 258ms
+29 silly audit report {}
+30 silly CHANGE node_modules/types-registry
+31 verbose cwd /home/alunos/a2667428/.cache/typescript/5.7
+32 verbose os Linux 6.8.0-52-generic
+33 verbose node v22.13.1
+34 verbose npm  v10.9.2
+35 verbose exit 0
+36 info ok
