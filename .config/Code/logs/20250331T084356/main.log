@@ -1,5 +1,0 @@
-2025-03-31 08:43:56.573 [info] update#setState idle
-2025-03-31 08:44:26.388 [info] update#setState checking for updates
-2025-03-31 08:44:26.401 [info] update#setState available for download
-2025-03-31 09:07:58.667 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
-2025-03-31 09:07:58.668 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 3212]: crashed with code 15 and reason 'killed'
