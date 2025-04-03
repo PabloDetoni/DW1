@@ -1,2 +1,0 @@
-{"timestamp":4124302,"category":"form_autocomplete","name":"show_logins","extra":{"glean_timestamp":"1743086150708","fieldType":"email","acFieldName":"username","loginsFooter":"1","stringLength":"0","value":"20","hadPrevious":"0","typeWasPassword":"0"}}
-{"timestamp":4124701,"category":"serp","name":"abandonment","extra":{"glean_timestamp":"1743086151107","impression_id":"3dfd50c7-fcd4-47d9-b46d-14e6a54027a8","reason":"window_close"}}
