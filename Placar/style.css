@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom right, #f3f4f6, #dfe7fd);
+    color: #333;
+    transition: background-color 0.4s ease;
+  }
+  
+  body.tie-break {
+    background-color: #ffebee !important;
+    background-image: none;
+  }
+  
+  #setup {
+    margin-top: 50px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  #setup input, #setup select, #setup button {
+    margin-top: 10px;
+    padding: 8px;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
+  #setup button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #setup button:hover {
+    background-color: #45a049;
+  }
+  
+  #main {
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  #tieBreakAviso {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #d32f2f;
+    margin-bottom: 20px;
+    display: none;
+  }
+  
+  .placar {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  .time {
+    width: 40%;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #c9d6ff;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    margin: 10px 0;
+    font-size: 1.6rem;
+    color: #1a237e;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  
+  .pontos {
+    font-size: 5rem;
+    margin: 20px 0;
+    color: #3949ab;
+  }
+  
+  .botoes {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .botoes button {
+    font-size: 1.8rem;
+    margin: 5px;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    background-color: #5c6bc0;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .botoes button:hover {
+    background-color: #3f51b5;
+  }
+  
+  .sets {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    background-color: #e8eaf6;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+  
+  #historico {
+    margin-top: 20px;
+    text-align: left;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  #historico h3 {
+    margin-bottom: 10px;
+    color: #283593;
+  }
+  
+  #historico ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1rem;
+  }
+  

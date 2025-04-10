@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Placar de Vôlei</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="tieBreakAviso">TIE BREAK! Último set até 15 pontos</div>
+
+  <div class="placar">
+    <div class="time" id="time1Box">
+      <h2 id="nome1"></h2>
+      <div class="pontos" id="pontos1">0</div>
+      <div class="botoes">
+        <button onclick="alterarPonto(0, 1)">+</button>
+        <button onclick="alterarPonto(0, -1)">–</button>
+        <button onclick="resetarPontos()">Zerar</button>
+      </div>
+    </div>
+    <div class="time" id="time2Box">
+      <h2 id="nome2"></h2>
+      <div class="pontos" id="pontos2">0</div>
+      <div class="botoes">
+        <button onclick="alterarPonto(1, 1)">+</button>
+        <button onclick="alterarPonto(1, -1)">–</button>
+        <button onclick="resetarPontos()">Zerar</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="sets">
+    <span id="sets1">Sets: 0</span>
+    <span id="sets2">Sets: 0</span>
+  </div>
+
+  <div id="historico">
+    <h3>Histórico</h3>
+    <ul id="log"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

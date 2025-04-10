@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Configurar Jogo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="setup">
+    <h1>Configuração Inicial</h1>
+    <input type="text" id="time1" placeholder="Nome do Time 1" />
+    <input type="text" id="time2" placeholder="Nome do Time 2" />
+    <select id="maxSets">
+      <option value="3">Melhor de 3 Sets</option>
+      <option value="5">Melhor de 5 Sets</option>
+    </select>
+    <button onclick="iniciarJogo()">Iniciar Jogo</button>
+  </div>
+
+  <script>
+    function iniciarJogo() {
+      const time1 = document.getElementById("time1").value || "Time 1";
+      const time2 = document.getElementById("time2").value || "Time 2";
+      const maxSets = document.getElementById("maxSets").value;
+
+      const params = new URLSearchParams({
+        time1: time1,
+        time2: time2,
+        sets: maxSets
+      });
+
+      window.location.href = `index2.html?${params.toString()}`;
+    }
+  </script>
+</body>
+</html>
